@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jeonghckr7/mashup-todolist/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/jeonghckr7/mashup-todolist/static/js/main.989857f6.chunk.js",
-    "main.js.map": "/jeonghckr7/mashup-todolist/static/js/main.989857f6.chunk.js.map",
-    "runtime-main.js": "/jeonghckr7/mashup-todolist/static/js/runtime-main.fc047b92.js",
-    "runtime-main.js.map": "/jeonghckr7/mashup-todolist/static/js/runtime-main.fc047b92.js.map",
-    "static/js/2.a4052045.chunk.js": "/jeonghckr7/mashup-todolist/static/js/2.a4052045.chunk.js",
-    "static/js/2.a4052045.chunk.js.map": "/jeonghckr7/mashup-todolist/static/js/2.a4052045.chunk.js.map",
-    "index.html": "/jeonghckr7/mashup-todolist/index.html",
-    "precache-manifest.be9bf2065d8f3d5c3b513c22cc1f9a30.js": "/jeonghckr7/mashup-todolist/precache-manifest.be9bf2065d8f3d5c3b513c22cc1f9a30.js",
-    "service-worker.js": "/jeonghckr7/mashup-todolist/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/jeonghckr7/mashup-todolist/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.a4052045.chunk.js.LICENSE.txt": "/jeonghckr7/mashup-todolist/static/js/2.a4052045.chunk.js.LICENSE.txt"
+    "main.css": "/jeonghckr7/mashup-todolist.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/jeonghckr7/mashup-todolist.git/static/js/main.861d4f02.chunk.js",
+    "main.js.map": "/jeonghckr7/mashup-todolist.git/static/js/main.861d4f02.chunk.js.map",
+    "runtime-main.js": "/jeonghckr7/mashup-todolist.git/static/js/runtime-main.8eb67694.js",
+    "runtime-main.js.map": "/jeonghckr7/mashup-todolist.git/static/js/runtime-main.8eb67694.js.map",
+    "static/js/2.c0af2711.chunk.js": "/jeonghckr7/mashup-todolist.git/static/js/2.c0af2711.chunk.js",
+    "static/js/2.c0af2711.chunk.js.map": "/jeonghckr7/mashup-todolist.git/static/js/2.c0af2711.chunk.js.map",
+    "index.html": "/jeonghckr7/mashup-todolist.git/index.html",
+    "precache-manifest.39e5462f86009d3dcf20bde58257b179.js": "/jeonghckr7/mashup-todolist.git/precache-manifest.39e5462f86009d3dcf20bde58257b179.js",
+    "service-worker.js": "/jeonghckr7/mashup-todolist.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/jeonghckr7/mashup-todolist.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c0af2711.chunk.js.LICENSE.txt": "/jeonghckr7/mashup-todolist.git/static/js/2.c0af2711.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc047b92.js",
-    "static/js/2.a4052045.chunk.js",
+    "static/js/runtime-main.8eb67694.js",
+    "static/js/2.c0af2711.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.989857f6.chunk.js"
+    "static/js/main.861d4f02.chunk.js"
   ]
 }
